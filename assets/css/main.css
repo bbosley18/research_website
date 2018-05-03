@@ -2086,9 +2086,9 @@
 				display: none;
 			}
 
-			.image.avatar img {
-				border-radius: 100%;
-				width: 100%;
+			.image.avatar img { 
+				border-radius: 50%;
+				width: 500%;
 			}
 
 /* List */
@@ -2937,7 +2937,7 @@
 				top: auto;
 				width: 100%;
 				display: block;
-				opacity: 0.4;
+				opacity: 0.5;
 			}
 
 				#header h1 {
