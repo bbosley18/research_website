@@ -2086,7 +2086,7 @@
 				display: none;
 			}
 
-			.image.avatar img { 
+			.image.avatar img {
 				border-radius: 50%;
 				width: 500%;
 			}
@@ -2937,7 +2937,7 @@
 				top: auto;
 				width: 100%;
 				display: block;
-				opacity: 0.5;
+				opacity: 1.0;
 			}
 
 				#header h1 {
