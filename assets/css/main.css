@@ -2000,7 +2000,7 @@
 			display: block;
 			height: 100%;
 			left: 0;
-			opacity: 0.5;
+			opacity: 0.3;
 			position: absolute;
 			top: 0;
 			width: 100%;
@@ -2040,7 +2040,7 @@
 
 			.image.thumb:hover:before {
 				background: url("images/overlay.png"), url("images/overlay.png");
-				opacity: 1.0;
+				opacity: 0.7;
 			}
 
 		.image img {
@@ -2484,7 +2484,7 @@
 		background-color: #1f1815;
 		background-attachment: scroll, fixed;
 		background-image: url("images/siena.jpg"), url("../../images/siena.jpg");
-		opacity: 0.4;
+		opacity: 0.1;
 		background-position: top left,							top left;
 		background-repeat: repeat,								no-repeat;
 		background-size: auto,								auto 100%;
