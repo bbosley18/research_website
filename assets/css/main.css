@@ -2079,7 +2079,7 @@
 			}
 
 		.image.avatar {
-			border-radius: 100%;
+			border-radius: 50%;
 		}
 
 			.image.avatar:before {
@@ -2530,7 +2530,7 @@
 		}
 
 		#header .image.avatar {
-			border-radius: 50%;
+			border-radius: 90%;
 		}
 
 /* Footer */
